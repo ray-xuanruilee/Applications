@@ -5,5 +5,6 @@
 2. Numpy Practice - SP (May 21): Practical and Tutorial for Numpy
 3. R Practice - SMU Pre-Term (May 21): Practicing R and RStudio
 4. Python Numpy & Matplotlib - SP (Jun 21): CA1 Assignment using Numpy and Matplotlib
+5. Pandas Practice - SP (Jul 21): Practical and Tutorial for Pandas
 
 Cheers!
